@@ -11,6 +11,7 @@ As I continue to advance, I look forward to exploring more concepts and refining
 ## Dataset
 
 The dataset can be found as part of the Udemy course, [Tableau For Healthcare](https://ibmcsr.udemy.com/course/tableau-for-healthcare/learn/lecture/20464431#overview).
+
 ## Screenshots
 
 ![Patients' Length of Stay](Images/Length%20of%20Stay.png) 
@@ -18,9 +19,10 @@ The dataset can be found as part of the Udemy course, [Tableau For Healthcare](h
 
 ## Interactive Dashboards
 
-To view the webpage created to showcase my dashboard(s), click the title(s) below:
+To view and interact with the webpage created to showcase my dashboard(s), click the title(s) below:
 
 [Patients' Length of Stay](https://nuralyaw.github.io/Tableau-for-Healthcare/)
+
 ## Acknowledgements
 
  - [Udemy Course: Tableau For Healthcare](https://ibmcsr.udemy.com/course/tableau-for-healthcare/learn/lecture/20464451#overview)
