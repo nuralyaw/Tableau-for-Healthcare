@@ -12,7 +12,10 @@ As I continue to advance, I look forward to exploring more concepts and refining
 
 The dataset can be found as part of the Udemy course, [Tableau For Healthcare](https://ibmcsr.udemy.com/course/tableau-for-healthcare/learn/lecture/20464431#overview).
 
-## Screenshots
+## Visualisation
+
+### 1. Patients' Length of Stay
+The length of a patient's stay serves as a valuable metric for assessing a hospital's efficiency. This dashboard leverages key performance indicators (KPIs), including the average Length of Stay (LOS) as a benchmark, the trend in LOS and weekly discharge counts from January to March, and the Observed:Expected Ratio, providing a comprehensive insight into hospital performance.
 
 ![Patients' Length of Stay](Images/Length%20of%20Stay.png) 
 
