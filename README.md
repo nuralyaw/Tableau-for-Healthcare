@@ -19,6 +19,28 @@ The length of a patient's stay serves as a valuable metric for assessing a hospi
 
 ![Patients' Length of Stay](Images/Length%20of%20Stay.png) 
 
+### 2. Patients' Readmission
+
+![Patients' Readmission](Images/Readmission.png) 
+
+### 3. Emergency Department Throughput
+
+![Emergency Department Throughput](Images/ED%20Throughput.png) 
+
+### 4. Mortality
+
+![Mortality](Images/Mortality.png) 
+
+### 5. Ambulatory Access
+
+![Ambulatory Access](Images/Ambulatory%20Access.png) 
+
+### 6. Hypertension Management
+
+![Hypertension Management](Images/Hypertension%20Management.png) 
+
+
+
 
 ## Interactive Dashboards
 
