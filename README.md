@@ -44,7 +44,7 @@ The length of a patient's stay serves as a valuable metric for assessing a hospi
 
 ## Interactive Dashboards
 
-To view and interact with the webpage created to showcase my dashboard(s), click the title(s) below:
+To view and interact with the webpage created to showcase the dashboard(s), click the title(s) below:
 
 [Patients' Length of Stay](https://nuralyaw.github.io/Tableau-for-Healthcare/)
 
