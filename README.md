@@ -46,7 +46,8 @@ The length of a patient's stay serves as a valuable metric for assessing a hospi
 
 To view and interact with the webpage created to showcase the dashboard(s), click the title(s) below:
 
-[Patients' Length of Stay](https://nuralyaw.github.io/Tableau-for-Healthcare/)
+[Patients' Length of Stay](https://nuralyaw.github.io/Tableau-for-Healthcare/Embeddings/Patients'%20Length%20of%20Stay/index.html)
+[Patients' Readmission](https://nuralyaw.github.io/Tableau-for-Healthcare/Embeddings/Patients'%20Readmission/index.html)
 
 ## Acknowledgements
 
